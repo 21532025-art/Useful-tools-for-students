@@ -26,4 +26,4 @@ Each section is written by a different team member.
 <!-- Brixon Jumba will write this section -->
 
 ## Github
-<!--- Shernice Waithera will write this section -->
+<!-- Shernice Waithera will write this section -->
