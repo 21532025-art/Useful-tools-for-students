@@ -79,4 +79,24 @@ Users can design their workspace with different layouts, colors, and structure t
 <!-- Brixon Jumba will write this section -->
 
 ## Github
-<!-- Shernice Waithera will write this section -->
+<!-- Shernice Waithera -->
+**Git Hub**
+Git hub is a powerful platform that allows developers and students to store,manage,and collaborate on projects using version control.
+here are some key points about GitHUB:
+1. **Repositiories**
+   a repositiory is where a project files,code,and documentation are stored.
+2.**Version control**
+   github uses git to track changes in field and code.
+3. **collaboration**
+   multiple users can work on the same project.
+4. **Branches**
+   branches allow developers to work on new features without affecting the main project.
+5. **Commits**
+   each commit includes a message explaining what was updated
+6. **Project management tools**
+   github provides tools like issues and projects to help teams track tasks and progress.
+7. **open source community**
+   developres can learn,contribute,and improve their coding skills.
+8.**portfolio for developers**
+   students and developers use github to showcase their projects and achievements.
+   
