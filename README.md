@@ -77,6 +77,21 @@ Users can design their workspace with different layouts, colors, and structure t
 
 ## Canva
 <!-- Brixon Jumba will write this section -->
+- *Canva* is a versatile visual communication platform that helps students transition from academic tasks to professional careers by simplifying complex design processes. 
+### Core Benefits for Students
+1. **Academic Productivity**: Students can use Canva's Visual Suite—including Docs, Whiteboards, and Presentations—to create high-quality assignments that stand out.
+2. **Seamless Collaboration**: The platform allows real-time group project work through shared design files and a commenting system for peer feedback.
+3. **AI-Powered Tools**: Magic Studio features like Magic Write (for drafting) and Magic Media (for generating AI images) help students brainstorm and visualize complex concepts quickly.
+4. **Data Visualization**: Students can transform research data into clear, compelling stories using Canva Sheets and customizable charts or infographics.
+5. **Career Readiness**: Proficiency in Canva is an in-demand professional skill. Students use it to build standout resumes, digital portfolios, and personal brand websites. 
+>Special Access Programs
+**Canva Education**: 100% free for K-12 students and teachers. It includes premium features, school-safe content filtering, and integration with Learning Management Systems (LMS) like Google Classroom and Canvas.
+**Canva for Campus**: Designed for higher education, this program provides university-wide access to enterprise-level design and collaboration tools. 
+### Common Student Use Cases
+**Presentations & Reports**: Access to over 100 million premium visuals to create professional-looking slide decks.
+**Extracurriculars**: Designing social media content, event posters, and branded swag for campus clubs.
+**Creative Learning**: Using the Draw tool for annotations or Canva Code to build interactive maps and simulations.
+**Job Hunting**: Utilizing Canva Work Kits for specialized resume and cover letter templates. 
 
 ## Github
 <!-- Shernice Waithera -->
