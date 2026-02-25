@@ -119,6 +119,18 @@ Users can design their workspace with different layouts, colors, and structure t
 **Creative Learning**: Using the Draw tool for annotations or Canva Code to build interactive maps and simulations.
 **Job Hunting**: Utilizing Canva Work Kits for specialized resume and cover letter templates. 
 
+### Earn through canva 
+   **Sell Editable Templates**: Create and sell templates for social media (Instagram, Reels covers), business, or wedding invitations via *Etsy*, Gumroad, or your own website.
+   **Freelance Design Services**: Offer services on platforms like *Fiverr* or *Upwork*, designing logos, business cards, flyers, and menus.
+   **Print on Demand (POD)**: Create designs for t-shirts, mugs, or posters and list them on platforms like *Printful*, allowing you to sell physical products without holding inventory.
+   **Canva Creators Program**: Apply to become a creator to design templates, elements, and graphics directly for the Canva library, earning royalties based on usage.
+   **Create Digital Products**: Design and sell digital products like planners, journals, e-books, and worksheets.
+   **AI-Powered Content**: Utilize Canva’s AI tools to create and sell unique images, patterns, or educational materials (like worksheets)
+
+
+
+
+
 ## Github
 <!-- Shernice Waithera -->
 **Git Hub**
