@@ -54,7 +54,14 @@ It is one of the most popular editors for programming.
 - *Auto Model Selection*: VS Code can automatically select the optimal language model (including GPT-5, Claude Sonnet 4.5, etc.) to ensure optimal performance and reduce rate limits for GitHub Copilot users.
 - *Model Agnostic Tools*: Tools and the underlying architecture are increasingly model-agnostic, allowing integration with third-party models and the ability to bring your own API keys (BYOK) for various providers.
 
-
+JavaScript,
+TypeScript,
+HTML,
+CSS,
+JSON,
+Less,
+SCSS,
+Markdown
 
 
 
