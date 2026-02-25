@@ -30,6 +30,7 @@ It is one of the most popular editors for programming.
 - **Integrated Terminal**: Features a built-in command line (supporting Bash, PowerShell, etc.), allowing you to run scripts and tools without leaving the editor.
 - **Version Control**: Has native integration with Git, enabling you to track changes, commit code, and manage repositories directly.
 - **Extensions Marketplace**: Offers over 60,000 plugins to add support for new languages, themes, and specialized tools like Live Server or ~~Prettier~~
+- **Built-in Version Control (Git)**: It offers seamless integration with Git and other version control systems, allowing users to manage repositories, track changes, resolve merge conflicts, and commit code without leaving the editor.
 
 ### Why is it useful for students
 - VS Code is widely recommended for students because it balances professional-grade power with beginner-friendly accessibility
