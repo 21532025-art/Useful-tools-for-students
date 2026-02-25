@@ -74,14 +74,32 @@ It is one of the most popular editors for programming.
 Notion provides a wide variety of pre-built templates, including personal planners, meeting notes, project management templates, and more.
 8. **Customization**:
 Users can design their workspace with different layouts, colors, and structure to suit their needs.
+
+
 *Advantage of notion to student*
+
+
 **Organization**: Students can create databases, notes, and to-do lists, which helps in organizing their study materials and assignments. The ability to structure pages with nested categories ensures everything is easy to find.
+
+
 **Collaboration**: Notion allows students to collaborate with peers on projects and share notes. Multiple people can work on the same document in real-time, which is great for group projects.
+
+
 **Customization**: Students can personalize their pages with different templates, making it easier to manage different subjects or courses. You can have separate pages for each class or project.
+
+
 **Task Management**: The to-do lists, kanban boards, and reminders help students track assignments, deadlines, and personal tasks, ensuring they stay on top of everything.
+
+
 **Multi-Device Sync**: Notion works across devices (laptop, tablet, phone), so students can access their materials anytime, anywhere, and stay productive on the go.
+
+
 **Integration**: It can integrate with other tools like Google Calendar and embeds from various platforms, making it easier to manage and keep track of everything in one place.
+
+
 **Research Storage**: Students can store articles, images, PDFs, and other resources in Notion, creating an easily accessible research library for assignments and projects.
+
+
 
 ## Canva
 <!-- Brixon Jumba will write this section -->
