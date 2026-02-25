@@ -42,6 +42,17 @@ It is one of the most popular editors for programming.
 
 > Visual Studio Code (VS Code) is a free,lightweight, and powerful open-source code editor developed by Microsoft for Windows, macOS,Linux
 
+### New updates on VS code
+- Unified Agent Experience: VS Code is now designed as a single interface for orchestrating various local, cloud, and background agents.
+- Message Steering and Queuing: You can send follow-up messages while a current AI request is running, choosing to add it to a queue, steer the agent's current task, or stop the current task immediately.
+- *Agent Skills as Slash Commands*: AI agent skills can be invoked on demand directly from the chat input using slash commands (e.g., /webapp-testing), making specialized workflows more accessible.
+- *Agent Hooks*: Allows users to run custom shell commands at key agent lifecycle points, such as before a tool is used, to enforce policies or automate checks.
+- *Mermaid Diagrams in Chat*: Chat responses can now render interactive Mermaid diagrams (flowcharts, sequence diagrams, etc.), allowing models to visually break down complex concepts.
+- ********Improved Plan Agent*: The built-in plan agent now uses a structured, four-phase iterative workflow (Discovery, Alignment, Design, Refinement) to produce higher-quality implementation plans.
+- *Subagents for Complex Tasks*: Agents can use subagents to break down complex tasks, which operate in their own isolated context windows, preventing main context window limits from being reached and allowing parallel execution.
+- *Auto Model Selection*: VS Code can automatically select the optimal language model (including GPT-5, Claude Sonnet 4.5, etc.) to ensure optimal performance and reduce rate limits for GitHub Copilot users.
+- *Model Agnostic Tools*: Tools and the underlying architecture are increasingly model-agnostic, allowing integration with third-party models and the ability to bring your own API keys (BYOK) for various providers.
+
 
 
 
