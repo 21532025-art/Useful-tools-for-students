@@ -171,4 +171,19 @@ here are some key points about GitHUB:
    developres can learn,contribute,and improve their coding skills.
 8.**portfolio for developers**
    students and developers use github to showcase their projects and achievements.
+
+   **communication tools for students**
+   students need communication tools to collaborate, share ideas, and work on group assignments effectively.
+   the usefu tools include:
+1.**Zoom**
+   helps students attend online classes,meetings,and group discussions through video calls
+2.**Microsoft Teams**
+   allows students to chat, share files, and hold virtual meetings for group work.
+3.**Slack**
+   useful for organising group discussions using chanels and direct messages.
+4.**Google meet**
+   enables students to join online lessons and collaborate remotely.
+5.**Discord**
+   students can create study groups, voice chats, and share resources easily.
+
    
