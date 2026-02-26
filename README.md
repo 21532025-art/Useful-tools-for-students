@@ -186,4 +186,18 @@ here are some key points about GitHUB:
 5.**Discord**
    students can create study groups, voice chats, and share resources easily.
 
-   
+**Advantages of github to students**
+1.**Collaboration**
+students can work together on projects and asignments easily , even from different locations
+
+2.**Version control**
+it keeps track of changes made to projects, so students can see previous versions and avoid loosing work.
+
+3.**Portfolio building**
+students can showcase their projects and skills to teachers,employers or internship opportunities.
+
+4.**Learning coding skills**
+it helps students practice programming, manage code, and learn how real developers work.
+
+5.**Project management**
+students can organise tasks, issues, and progress while working on group assignmrnts.
