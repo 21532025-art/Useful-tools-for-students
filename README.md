@@ -200,4 +200,4 @@ students can showcase their projects and skills to teachers,employers or interns
 it helps students practice programming, manage code, and learn how real developers work.
 
 5.**Project management**
-students can organise tasks, issues, and progress while working on group assignmrnts.
+students can organise tasks, issues, and progress while working on group assignments.
